@@ -151,7 +151,8 @@ export default {
 - name: German`,
 
   Country: '# Country',
-  Home: `# Showcase
+
+  Example: `# Showcase
 - string: Hello World
 - number: $3.14159$
 - boolean: \`TRUE\`
