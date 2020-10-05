@@ -31,13 +31,13 @@ export default {
   * $3.1415926$`,
 
   list2: `# Example
-- list of strings:
+- still a list:
 * item 1
 * item 2
 * item 3`,
 
   list3: `# Example
-- list of strings:
+- still a list:
   * item 1
 
   * item 2
